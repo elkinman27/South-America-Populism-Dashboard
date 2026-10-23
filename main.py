@@ -53,14 +53,14 @@ category_descriptions = {
         "Referred to in South America as ''jingle político'' (political jingle) or ''tema de campaña'' "
         "(campaign theme), campaign music plays an important role in spreading the word for political movements "
         "and candidates. Beyond simple political advertisement, campaign music often takes a "
-        "life of its own in populist movements, being sung by supporters in political "
+        "life of its own in populist movements, being sung by supporters in political  "
         "rallies and other campaign events."
     ),
     "Sports": (
         "Identifying whether sports are used for national unity versus populist  "
         "means is a difficult task. Attending a sporting event is common amongst both "
         "populists and non-populists, sometimes even as a form of international diplomacy. "
-        "To make a distinction, this category includes instances of "
+        "To make a distinction, this category include instances of "
         "populists using athlete endorsements for political gain, or presenting themselves as "
         "representatives or members of sporting teams. Thus, shifting the emphasis away from "
         "the nation and the sport towards themselves."
@@ -74,7 +74,7 @@ category_descriptions = {
     ),
     "Leader Profile": (
         "A short description of selected populist leaders across South America, describing their "
-        "background and context of their present policies."
+        "background and come of their present policies."
     ),
 }
 
@@ -87,11 +87,11 @@ country_data = {
             "position": "center top",
         },
 
-        "Leader Profile": "A self-described libertarian, Javier Milei is an economist who "
+        "Leader Profile": "A self described libertarian, Javier Milei is an economist who "
         "currently serves as the President of Argentina for the 2023-2027 cycle. "
         "Famous for using a chainsaw as a prop on the campaign trail, he proposed dollarizing "
         "the Argentinian economy and cutting "
-        "down on government spending to curb rising inflation. Milei also adopted the symbol of the "
+        "down on government spending to curb rising inflation. Milei also adopted the symbol of the"
         "lion throughout his campaign, stating that he ''did not come to lead sheep, but to awaken lions.'' ",
 
 
@@ -100,10 +100,10 @@ country_data = {
                 "title": "La Marcha del Leon - Juan Pablo Gariglio",
                 "url": "https://www.youtube.com/watch?v=hEk5Mc8j-OM",
                 "description": "The Lion's March, as it's called in English, is more of a political song "
-                "than a traditional political jingle. Composed by Juan Pablo Gariglio as a traditional "
-                "Argentinian rock song, it sounds like something that could play on a radio in Buenos Aires. "
+                "than a traditional political jingle. Composed by Juan Pablo Gariglio as a traditional"
+                "Argentinian rock song, it sounds like something that could play on a radio in Buenos Aires."
                 "However, the political connection is clear. The song states that it will tell the ''story of "
-                "a place that was sentenced to death... whose liberty of yesteryear was in the hands of tyrants "
+                "a place that was sentenced to death... whose liberty of yesteryear was in the hands of tyrants"
                 "and ogres.'' It wasn't until Milei, ''a light of freedom that began to awaken lions.'' that the "
                 "place was saved. ",
             },
@@ -113,7 +113,7 @@ country_data = {
             {
                 "title": "Viva la Argentina",
                 "url": "https://www.instagram.com/p/DbIuQPuTxnJ/",
-                "description": "An AI-generated image of Milei wearing Argentina's football jersey. "
+                "description": "An AI generated image of Milei wearing Argentina's football jersey. "
                 "Posted 4 days after the final of the World Cup, where Argentina fell against Spain. "
                 "The image shows Milei opening his suit to reveal the shirt, reminiscent of how "
                 "Superman reveals his costume in the comics. Along with the phrase ''long live Argentina, "
@@ -243,7 +243,7 @@ country_data = {
                 "url": "https://www.youtube.com/watch?v=VuWdJHEW7a8",
                 "description": "A traditional political jingle, with a clear message and call to action. "
                 "The chorus invites people to ''vote 5 for Kast,'' which was the candidate's number "
-                "in the ballot. Curiously, it includes ''without communism, without communism'' as "
+                "in the ballot. Curiously, it includes ''without communism, without communism'' as"
                 "part of its messaging, showing how Kast's campaign was trying to portray his opponents.",
             },
         ],
@@ -293,7 +293,7 @@ country_data = {
                 "url": "https://www.youtube.com/watch?v=STOfx5VI0Dk",
                 "description": "The official anthem of ADLE's campaign, created by Colombian artist "
                 "Nicolás Tovar. It's chorus repeats: ''The tiger that roars and bites. "
-                " The tiger who fears nothing. The tiger who leaves a mark, Abelardo de la Espriella.'' "
+                " The tiger who fears nothing. The tiger who leaves a mark, Abelardo de la Espriella.''"
                 "The music video also shows ADLE reading the bible and looking up at the sky as a "
                 "light shines from the heavens, as if chosen by God to lead the country.",
             },
@@ -304,7 +304,7 @@ country_data = {
                 "description": "Designed by Andrés Gelvez, a political consultant for ADLE, using AI. "
                 "The song is based on a chant he heard while attending a watch party of the "
                 "country's national football league. The song repeats ''tiger of my life... let's win "
-                "against Petro, for our nation.''"
+                "against Petro, for our nation'' "
             },
 
 
@@ -330,9 +330,9 @@ country_data = {
                 "description": "After being elected, ADLE announced his presidential cabinet through the "
                 "social media posts generated by AI. This is one example of the many AI cabinet announcements. "
                 "A constant in all of the cabinet announcement videos is the tiger, which represents ADLE, and "
-                " the mention of the ''miracle homeland.'' The miracle homeland is the name given by ADLE to his "
+                " the mention of the ''miracle homeland.'' The miracle homeland is the name given by ADLE to his"
                 "presidential term, where the change that will be achieved was believed to be unobtainable. It also"
-                "shows Enrique Serrano López declaring ''standing firm with the motherland,'' ADLE's political "
+                "shows Enrique Serrano López declaring ''standing firm with the motherland,'' ADLE's political"
                 "slogan, a form of declaring fealty to the political movement and the President.",
             },
         ],
@@ -401,8 +401,8 @@ country_data = {
                 "url": "https://www.youtube.com/watch?v=UYp76XpegkA",
                 "description": "Despite being of Japanese ancestry, Keiko Fujimori's jingle "
                 "is titled ''El Ritmo de la China'' (The Chinese woman's rhythm). Originally "
-                "created for her father's 2000 presidential reelection bid, Keiko's remix "
-                "declares that ''the antis had their chance, those who hated had their chance, here "
+                "created for her father's 2000 presidential reelection bid, Keiko's remix"
+                "declares that ''the antis had their chance, those who hated had their chance, here"
                 "comes Keiko to put order to what they couldn't.'' "
             },
 
@@ -655,7 +655,15 @@ def create_map(selected_category):
 # DASH APPLICATION
 # =========================================================
 
-app = Dash(__name__)
+import os
+
+app = Dash(
+    __name__,
+    assets_folder=os.path.join(
+        os.path.dirname(os.path.abspath(__file__)),
+        "Assets"
+    )
+)
 server = app.server
 
 
@@ -1357,7 +1365,6 @@ def update_information_panel(
 
         ),
 
-
         html.P(
 
             f"{len(sources)} "
@@ -1381,7 +1388,6 @@ def update_information_panel(
 # RUN APPLICATION
 # =========================================================
 
-import os
 
 if __name__ == "__main__":
     app.run(
