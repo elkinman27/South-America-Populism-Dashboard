@@ -83,7 +83,7 @@ country_data = {
     "Argentina": {
         "leader": {
             "name": "Javier Milei",
-            "image": "/Assets/Milei_Presidente.jpg",
+            "image": "/assets/Milei_Presidente.jpg",
             "position": "center top",
         },
 
@@ -161,7 +161,7 @@ country_data = {
     "Brazil": {
         "leader": {
             "name": "Flávio Bolsonaro",
-            "image": "/Assets/Flavio_Presidente.jpg",
+            "image": "/assets/Flavio_Presidente.jpg",
             "position": "center top",
         },
 
